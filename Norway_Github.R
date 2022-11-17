@@ -23,3 +23,4 @@ git_default_branch_configure(name = "main") # this will ensure all following rep
 # if something is screwed in the local repo, clone it and burn down the main repo. Not elegant, but works always
 # Branches help secure main code and allow you to experiment with the copied code (branch)
 # git branch -d new_test_branch Do this on terminal
+#Beetls, beetles are great, they are key to the survival of mankind. Unfortunately, humans underestimate the power, beauty and pureness of this magnificent craft of god, when I look at the beetle, I once again find a connection between me and a holy power which is a beetle, a stage beetle Sinodendron cylindricum to be precise.
